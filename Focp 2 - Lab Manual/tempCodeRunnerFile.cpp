@@ -1,0 +1,3 @@
+
+    }
+    cout<<"Maximum value: "<<maxsales;
